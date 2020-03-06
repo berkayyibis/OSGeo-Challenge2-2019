@@ -12,9 +12,10 @@
     "fs": "0.0.1-security",
     "pg-promise": "^10.4.3"
   },
-  "devDependencies": {},
+    "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error:no test specified\"&& exit 1\""
+    "test": "echo \"Error:no test specified\"&& exit 1\"",
+    "start":"node index.js"
   },
   "author": "",
   "license": "ISC"
