@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "start":"node index.js",
   "dependencies": {
     "popup": "^0.0.3",
     "ol": "^6.2.1",
