@@ -9,6 +9,6 @@
 <p><span style="text-decoration: underline;"><strong>Syncthing for synchronizes files between two or more devices</strong></span></p>
 <p><img src="https://www.idiria.com/wp-content/uploads/2016/03/syncthing-logo.jpg" alt="" width="254" height="254" /></p>
 <p>&nbsp;</p>
-<p>Take a close look of the website :&nbsp;&nbsp;<a href="https://afour.herokuapp.com/">https://afour.herokuapp.com/</a><img src="https://i.ibb.co/bzJ7xtK/ress1.png" alt="" width="535" height="449" /></p>
+<p>Take a close look of the website :&nbsp;&nbsp;<a href="https://afour.herokuapp.com/">https://berkaybmilletler.herokuapp.com/</a><img src="https://i.ibb.co/bzJ7xtK/ress1.png" alt="" width="535" height="449" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
